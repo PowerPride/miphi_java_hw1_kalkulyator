@@ -25,7 +25,6 @@ public class Main {
                 } else {
                     System.out.println(firstOperand / secondOperand);
                 }
-
                 break;
         }
     }
